@@ -1,0 +1,1 @@
+A flying creature can move in any direction in empty space. They must move at least half of the Fly distance during their [[Turn]] or they are knocked [[Prone]] begin to fall.

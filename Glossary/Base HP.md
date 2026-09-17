@@ -1,0 +1,1 @@
+The amount of [[HP]] provided by the [[Character]]'s [[Archetype]].

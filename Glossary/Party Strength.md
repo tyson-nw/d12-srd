@@ -1,0 +1,1 @@
+Add each [[Character]]'s [[Tier]] together including any [[Pet]]s to determine the [[Party Strength]]

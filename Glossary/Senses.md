@@ -1,0 +1,1 @@
+This is a [[Character]]'s awareness of the world and their surroundings.

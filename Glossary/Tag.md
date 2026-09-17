@@ -1,0 +1,1 @@
+Weapon Tags describe the damage a [[Weapon]] does, what [[Perk]]s [[Weapon Attack]] [[Feature]]s have, and what [[Feature]]s the weapon may grant.

@@ -1,0 +1,1 @@
+An Exposed [[Creature]] is vulnerable to [[Exploit]] effects of [[Feature]]s.

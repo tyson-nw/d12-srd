@@ -1,0 +1,1 @@
+The size of a creature not only includes the space they occupy, but also the area that needs to be clear to prevent [[Hindrance]]s on [[Feature]]s.

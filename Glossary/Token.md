@@ -1,0 +1,1 @@
+Creatures should have a Token to indicates their position on the [[Battlemap]] or [[Chasemap]]. 

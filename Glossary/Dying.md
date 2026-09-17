@@ -1,0 +1,1 @@
+At the beginning of the [[Character]]'s [[Turn]] them make a [[Stabilization Roll]] until they either stabilize or die.

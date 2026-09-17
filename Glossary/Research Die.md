@@ -1,0 +1,1 @@
+The [[Die Type]] of a [[Primer]]. Ranging from 1D4 at [[Tier]] 1 to 1d10 at [[Tier]] 4.

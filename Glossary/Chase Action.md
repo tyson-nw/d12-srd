@@ -1,0 +1,1 @@
+When in a chase participants whether on foot, riding a mount, or piloting a vehicle need to use a [[Maneuver]] that includes movement or else they will [[Fall Behind]]. 

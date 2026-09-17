@@ -1,0 +1,1 @@
+This is a [[Character]]'s prowess with weapons.

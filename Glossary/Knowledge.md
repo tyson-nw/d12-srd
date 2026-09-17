@@ -1,0 +1,1 @@
+Knowledge is a [[Character]]'s ability to recal information a they might know and take in new information.

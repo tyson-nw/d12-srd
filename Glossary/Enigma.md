@@ -1,0 +1,1 @@
+An Enigma is typically a supernatural power that a [[Character]] can harness. Spells, miracles, and other things that defy logical explanation qualify.

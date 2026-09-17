@@ -1,0 +1,1 @@
+Striding creatures cam move the listed distance against clear level ground. Steep uphill climbs or [[Difficult Terrain]] take twice the amount of distance to cross a single space.

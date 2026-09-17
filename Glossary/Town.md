@@ -1,0 +1,1 @@
+A medium sized [[Settlement]] that has two to three primary industry, limited items for sale, and can support only a [[Poor]], [[Comfortable]], or [[Wealthy]] (At twice cost) [[Lifestyle]]s.

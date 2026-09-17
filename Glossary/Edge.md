@@ -1,0 +1,1 @@
+When a [[Creature]] has some form of advantage over another [[Creature]] they have an Edge. When a [[Character]] has an Edge they [[Roll]] twice and take the higher value. If an [[Antagonist]] has an Edge, then the [[Character]] they are targeting [[Roll]]s their [[Defense]] twice and take the lower value.

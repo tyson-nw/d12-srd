@@ -1,0 +1,1 @@
+When a participant leaves the [[Chasemap]] they have fallen behind and are no longer a participant. But that doesn't mean they leave [[Initiative]]. After all Pparticipants on their side have gone, the [[Player]] can propose ways for them to get back on the [[Chasemap]] during their turn to work to rejoin the chase.

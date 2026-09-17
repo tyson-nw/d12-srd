@@ -1,0 +1,1 @@
+This is a creature's ability to control a [[Mount]] or [[Vehicle]].

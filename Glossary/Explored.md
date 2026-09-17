@@ -1,0 +1,1 @@
+The party has passed through the [[Hex]] previously and is familiar with the terrain. Traversing an Explored [[Hex]] takes 2 hours and has a [[Target Number]] of 6.

@@ -1,0 +1,1 @@
+Empowered Items provide [[Feature]]s to their wielder. These are have unlimited usage or use [[Charges]] that reset on a [[Day's Rest]]. Each Empowered Item has a [[Tier]] where it is advised that it becomes available to the [[Character]]s.

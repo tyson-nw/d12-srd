@@ -1,0 +1,1 @@
+When traveling through terrain that can [[Screened|Screen]] the participant they try and use the terrain to [[Hide]] from other participants. Make a [[Chase Roll ]]against any viewers' [[Mind]] to [[Hide]].

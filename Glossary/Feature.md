@@ -1,0 +1,1 @@
+Features acts that a [[Creature]] can perform. If they effect another [[Creature]] in a negative way or Roll against [[Target Number]] set be the status of the acting [[Creature]] they use [[Conflict Roll]]s. It they are rolled against a [[Target Number]] they use [[Proactive Roll]]s.

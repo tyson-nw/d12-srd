@@ -1,0 +1,1 @@
+Enhanced Materials are materials with supernatural capabilities. Used in [[Kit]]s to have an enhancing effect on [[Enigma]]s. They can be harvested from creatures with thematically matched [[Feature]]s. 

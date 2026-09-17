@@ -1,0 +1,1 @@
+There are 4 Tiers of play, each Tier's challenges are harder and have a wider scope than the previous Tiers. A [[Character]]'s [[Proficient|Proficiency]] is equal to their [[Tier]] and it dictates how many [[Empowered Item]]s they can [[Attune]] to.

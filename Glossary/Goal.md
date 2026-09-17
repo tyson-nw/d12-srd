@@ -1,0 +1,1 @@
+In every Conflict, the Antagonist has a Goal they wish to achieve. That Goal should be incompatible with the [[Player]]'s goals for the Conflict. It may be as simple as they want money for the item the [[Character]]s want. Or as vast as a ritual they want to complete that will end the world and birth a new one.

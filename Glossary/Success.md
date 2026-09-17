@@ -1,0 +1,1 @@
+A [[Roll]] equals or exceeds a [[Target Number]].

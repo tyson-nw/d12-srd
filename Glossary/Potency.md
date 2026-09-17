@@ -1,0 +1,1 @@
+The [[Roll]] to create a [[Consumable]] is the Potency of the created item.

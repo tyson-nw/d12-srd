@@ -1,0 +1,1 @@
+The person who directs and embodies a [[Character]].

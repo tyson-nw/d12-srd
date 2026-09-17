@@ -1,0 +1,1 @@
+Each Enigma has a casting time that dictate what type of act is required to use it: [[Action]], [[Maneuver]], [[Interaction]], or a [[Prolonged Act]].

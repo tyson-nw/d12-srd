@@ -1,0 +1,1 @@
+Some items require [[Attune|Attunement]] to grant the wielder their [[Feature]]s. A [[Character]] can be attuned up to their [[Tier]] in items. Unless granted an exception by the [[Game Master]], a [[Character]] can only attune to items of their [[Tier]] or lower.

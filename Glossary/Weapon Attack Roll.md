@@ -1,0 +1,1 @@
+A [[Conflict Roll]] that uses the [[Roll]] based on the [[Weapon]]'s [[Tag]]s.

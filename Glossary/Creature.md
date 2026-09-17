@@ -1,0 +1,1 @@
+[[Characters]], [[Antagonists]], and other beings that can act independently. 

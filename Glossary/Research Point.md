@@ -1,0 +1,1 @@
+To [[Research]] new [[Feature]]s, [[Enigma]]s, [[Formula]]e, or [[Expertise]]s the [[Character]] uses [[Primer]]s and [[Experimentation]] to earn Research Points.

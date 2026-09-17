@@ -1,0 +1,1 @@
+Mobile and versatile the Skirmisher moves through the battlefield supporting their allies with both melee and ranged attacks.

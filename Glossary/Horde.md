@@ -1,0 +1,1 @@
+Horde creatures are designed to work in coordination with other horde creatures but are weak on their own.

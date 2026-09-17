@@ -1,0 +1,1 @@
+ooks can range from rumors that tempt the [[Player]]s with enticing [[Rewards]], to Patrons with a need for the [[Character]]s to fulfil, to [[Antagonist]]s that have a goal running counter to the [[Character]]s', to an immediate emergency involving the [[Character]]s.

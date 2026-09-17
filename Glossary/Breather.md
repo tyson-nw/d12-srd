@@ -1,0 +1,1 @@
+A [[Character]] can take a Breather by spending an hour recovering from combat. If the character makes a [[Defense]] or a [[Strength]], [[Dexterity]], or [[Fortitude]] [[Roll]] during the hour, they do not get the benefits of the breather.

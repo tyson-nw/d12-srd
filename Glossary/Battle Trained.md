@@ -1,0 +1,1 @@
+Commanding a mount to move, [[Dodge]], or [[Attack]] do not require [Proactive Rolls], but do require a Maneuver from the [[Character]] that includes movement.

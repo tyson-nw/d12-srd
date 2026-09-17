@@ -1,0 +1,1 @@
+An item that can be used to deal damage. They are made up of [[Tag]]s that determine their usage, [[Damage]] they do, and [[Perk]]s that are available to choose from.

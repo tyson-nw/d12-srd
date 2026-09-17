@@ -1,0 +1,1 @@
+Burrowing creatures can move through solid earth in any direction

@@ -1,0 +1,1 @@
+The creature makes a [[Strength]] + [[Athletics]] [[Conflict Roll]] against the [[Target]]'s [[React]] to give the target creature the [[Grabbed]] condition. While grabbing a target the grabbing creature can move half their movement taking the grabbed creature along with them.

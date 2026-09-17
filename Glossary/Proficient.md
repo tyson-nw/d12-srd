@@ -1,0 +1,1 @@
+The [[Character]] adds their [[Tier]] to their [[Roll]] if they are proficient in a [[Skill]].

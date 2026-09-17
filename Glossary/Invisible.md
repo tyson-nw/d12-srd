@@ -1,0 +1,3 @@
+A creature is Invisible if they cannot be seen, either by [[Enigma]], ability, or they are in complete darkness. A [[Character]] can estimate the [[Space]] of the Invisible [[Creature]] with a [[Wits]] + [[Senses]] [[Roll]] against the [[Creature]]'s [[React]]. If the [[Antagonist]] is moving stealthily at half their [[Stride]], the [[Roll]] has a [[Hindrance]]. If the [[Character]] is invisible, as a Maneuver they can move half their Stride to make a [[Dexterity]] + [[Stealth]] [[Roll]] against observers' [[React]] with an [[Edge]].
+
+- [[03. Running the Game#Invisible]]

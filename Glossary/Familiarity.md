@@ -1,0 +1,1 @@
+As the [[Character]]'s understanding of a [[Hex]] improves their Familiarity increases from [[Unknown]], to [[Explored]], then to [[Charted]]. Once its Familiarity is increased the [[Character]]s can traverse it with the next [[Navigation Roll]] and spend the new time to traverse to a new [[Hex]].

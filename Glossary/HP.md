@@ -1,0 +1,1 @@
+The amount of [[Damage]] the [[Creature]] can take. When it reaches 0 they begin [[Dying]].

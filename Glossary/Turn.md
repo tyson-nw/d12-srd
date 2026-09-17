@@ -1,0 +1,1 @@
+During the party's Turn the [[Character]]s can act in any order using their [[Action]], [[Maneuver]], and [[Interaction]] in any order. But they need to use all three before the next [[Character]] can act. If a [[Maneuver]] includes movement, they can use that movement at any time during their Turn.

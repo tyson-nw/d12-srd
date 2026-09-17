@@ -1,0 +1,1 @@
+Enigmas are the supernatural forces that shape the world. A [[Character]] can have multiple instances of the Enigmas [[Skill]] if they are [[Proficient]] in different supernatural forces.

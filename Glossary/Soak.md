@@ -1,0 +1,1 @@
+Soak from the [[Creature]]'s [[Fortitude]] and Armor reduces the amount of [[Damage]] they take, reducing it no lower than 1.

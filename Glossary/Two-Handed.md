@@ -1,0 +1,1 @@
+Large weapons that require two hands to wield deal 1D8 [[Damage]]. When wielding a Two-Handed Weapon the wielder cannot use [[Feature]]s that require a free hand that turn.

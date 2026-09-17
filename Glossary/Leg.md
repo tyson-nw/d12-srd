@@ -1,0 +1,1 @@
+Between each [[Point]] is a Leg where an [[Set Piece]] can happen. These can be beneficial encounters or an encounter with a conflict. If using [[Random Encounter]]s, the [[Navigation Roll]] of those leading the journey should influence which is encountered. 

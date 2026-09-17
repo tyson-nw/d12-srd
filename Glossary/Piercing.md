@@ -1,0 +1,1 @@
+Uses a sharp tip in a jabbing motion. As a [[Perk]] the [[Damage]] bypasses the [[Target]]'s [[Soak]].

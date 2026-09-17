@@ -1,0 +1,1 @@
+The area projects forward in a line from the center of the [[Source]]'s [[Space]] to a [[Space]] within the noted distance. Every [[Space]] the line crosses is within the effect.

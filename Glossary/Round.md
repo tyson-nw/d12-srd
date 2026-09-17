@@ -1,0 +1,1 @@
+Over the course of a Round, the [[Character]]s act on their [[Turn]] in any order, the [[Antagonist]]s act on their [[Turn]] in any order, then [[Scene Feature]]s trigger, then a [[Lair Feature]] if they are in the [[Antagonist]]'s lair. 

@@ -1,0 +1,1 @@
+Expertises are additional training that a character has received. They are not tied to a specific [[Skill]] or [[Stat]]. Only one Expertise can be added to a [[Roll]] if it applies to the task, adding the +2 to it. The [[Character]] does not need to be [[Proficient]] in a [[Skill]] to use an Expertise in a [[Roll]].

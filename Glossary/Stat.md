@@ -1,0 +1,1 @@
+An abstraction of a [[Character]]'s capabilities that provides a bonus to every [[Roll]].

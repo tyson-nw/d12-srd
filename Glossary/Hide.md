@@ -1,0 +1,1 @@
+A [[Character]] can attempt to become hidden by making a [[Wits]] + [[Stealth]] check while in [[Cover]] from the [[Mind]] defense of [[Antagonist]]s that can see them. With a [[Success]], the observers lose track of the [[Character]]’s position in the chaos of battle and the [[Character]] is hidden. 

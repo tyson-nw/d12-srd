@@ -1,0 +1,1 @@
+When a [[Creature]] has some form of diadvantage over another [[Creature]] they have an Hindrance. When a [[Character]] has an Hindrance they [[Roll]] twice and take the lower value. If an [[Antagonist]] has an Hindrance, then the [[Character]] they are targeting [[Roll]]s their [[Defense]] twice and take the higher value.

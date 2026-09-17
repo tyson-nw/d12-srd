@@ -1,0 +1,1 @@
+[[Perk]]s that apply to [[Conflict Roll]]s that a [[Player]] can choose one of to apply to the [[Target]].

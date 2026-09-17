@@ -1,0 +1,1 @@
+While resting or during [[Downtime]] a [[Character]] can research new [[Feature]]s and [[Expertise]] they are seeking to attain. This can be done through [[Primer]]s or [[Experimentation]].

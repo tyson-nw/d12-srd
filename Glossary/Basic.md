@@ -1,0 +1,1 @@
+The wielder does not have a [[Hindrance]] when not [[Proficient]] in the [[Weapons]] [[Skill]].

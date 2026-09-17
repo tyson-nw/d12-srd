@@ -1,0 +1,1 @@
+Downtime Activities are discreet activities the [[Character]]s spend their [[Downtime]] trying to complete. If a Downtime Activity has a cost it is in addition to the [[Lifestyle]]'s cost. 

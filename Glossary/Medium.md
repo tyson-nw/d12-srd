@@ -1,0 +1,1 @@
+Ranging from four to seven feet tall, Medium [[Creature]]s take up an entire [[Space]].

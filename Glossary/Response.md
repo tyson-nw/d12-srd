@@ -1,0 +1,1 @@
+As an immediate reaction to a specific action another [[Creature]] makes during any turn. If it has a trigger the Response interrupts the triggering [[Action]] and can modify it or cause it to fail. A [[Creature]] can take one Response each round unless otherwise specified.

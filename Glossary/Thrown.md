@@ -1,0 +1,1 @@
+Can attack a Target up to the listed [[Space]]s. [[Threaten]]s [[Adjacent]] [[Target]]s.

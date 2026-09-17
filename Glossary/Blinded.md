@@ -1,0 +1,1 @@
+The [[Creature]] cannot see and as such has a [[Hindrance]] on [[Deflect]], [[Enigmas]], [[React]], [[Senses]], [[Weapons]] [[Roll]]s and are [[Exposed]]. Other [[Creature]]s have an [[Edge]] on [[Roll]]s that target the Blinded [[Creature]]. 

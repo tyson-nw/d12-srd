@@ -1,0 +1,1 @@
+[[Target Number|TN]] 8. This takes some effort to achieve, but can be achieved with time or focus.

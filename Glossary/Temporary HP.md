@@ -1,0 +1,1 @@
+[[HP]] from ablative armor, enigmas, or other [[Feature]]s that are reduced by [[Damage]] before the [[Creature]]'s [[HP]] is.

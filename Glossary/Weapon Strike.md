@@ -1,0 +1,1 @@
+When wielding a [[Weapon]] the [[Character]] has the Weapon Strike [[Feature]]. As an [[Action]] make a [[Weapon Attack]] [[Roll]] against a [[Target]]'s [[Deflect]] to deal 1D6 [[Damage]]. If the weapon is [[Fine]], the it can be used as a [[Maneuver]] as long as it is not used in an [[Action]]. Typically this is reserved for offhand weapons.

@@ -1,0 +1,1 @@
+Any time the [[Character]]s are faced with a challenge, they are in [[Conflict]]. It could be with the [[Environment]], with a puzzle, or with [[Antagonist]]s. 

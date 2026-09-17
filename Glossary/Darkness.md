@@ -1,0 +1,1 @@
+[[Creature]]s in darkness are in [[Cover]] and [[Blinded]] unless they have special vision.

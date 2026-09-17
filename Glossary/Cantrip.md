@@ -1,0 +1,1 @@
+Cantrips are Enigmas that do not have a cost associated with them. Typically they increase in power as the [[Character]] increases in [[Tier]]. They will always have a unique [[Perk]].

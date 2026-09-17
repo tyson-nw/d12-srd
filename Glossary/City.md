@@ -1,0 +1,1 @@
+A large sized [[Settlement]] that is a trade hub and supports four to six primary industries, most  items are available for sale, and can support all [[Lifestyle]]s. They are centers of economic and political power for nations.

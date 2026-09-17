@@ -1,0 +1,1 @@
+An act or or other requirement for a [[Response]] to Trigger and interrupt a [[Creature]]'s [[Turn]]. 

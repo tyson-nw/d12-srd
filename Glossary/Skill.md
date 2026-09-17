@@ -1,0 +1,1 @@
+A broad area of training that a [[Character]] can draw on when making a [[Roll]]. The available Skills are  [[Athletics]], [[Craft]], [[Enigmas]], [[Focus]], [[Knowledge]], [[Pilot]], [[Senses]], [[Social]], [[Stealth]], and [[Weapons]].

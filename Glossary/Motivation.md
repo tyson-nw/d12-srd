@@ -1,0 +1,1 @@
+Antagonists need a Motivation that comes in conflict with the [[Player]]'s desires. The strength of their motivations determine what they are willing to risk in their pursuits that are contrary to the [[Character]]s desires.

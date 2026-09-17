@@ -1,0 +1,1 @@
+Some items require a character to Attune to them, the character can only have one Attuned [[Empowered Item]] for every [[Tier]] of the character.

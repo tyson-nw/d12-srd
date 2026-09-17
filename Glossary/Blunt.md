@@ -1,0 +1,1 @@
+Deals blunt force trauma to a [[Target]]. As a [[Perk]] the [[Target]] gains a level of [[Blight]].

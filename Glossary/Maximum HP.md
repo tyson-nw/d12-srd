@@ -1,0 +1,1 @@
+The maximum amount of [[HP]] the [[Character]] can have at any time.

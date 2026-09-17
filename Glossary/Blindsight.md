@@ -1,0 +1,1 @@
+[[Invisibility]] and [[Light]] are ignored within a set range.

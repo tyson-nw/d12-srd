@@ -1,0 +1,3 @@
+ A [[Creature]] can make a Maneuver before they submerge to hold their breath by making a [[Fortitude]] + [[Focus]] [[Roll]], they can hold it for as many rounds as a the roll, [[Action]]s expend 2 additional [[Round]]s of held breath and [[Maneuver]]s expend 1 additional [[Round]]. If a [[Creature]] takes damage while holding their breath a [[Fortitude]] + [[Focus]] [[Roll]] against the damage taken is required. If the creature fails they begin [[Suffocating]].
+
+- [[03. Running the Game#Holding Breath]]

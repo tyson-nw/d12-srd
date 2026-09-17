@@ -1,0 +1,1 @@
+An additional positive effect from [[Roll]]ing a 12 on a D12 and beating the [[Target Number]]. This effect will always benefit the character, even if the benefit doesn't directly relate to the Task.

@@ -1,0 +1,1 @@
+A single [[Creature]] or a group of [[Creature]]s within an area.

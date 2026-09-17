@@ -1,0 +1,1 @@
+The shield adds the listed value to the wielder's [[Deflect]]. As a [[Maneuver]] the wielder can make a [[Weapon Attack Roll]] to deal 1D4 [[Damage]].

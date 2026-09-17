@@ -1,0 +1,1 @@
+Targets that are [[Adjacent]] to, or within the [[Reach]] of the [[Creature]] are are Threatened.

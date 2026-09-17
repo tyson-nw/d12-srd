@@ -1,0 +1,1 @@
+Uses [[Dexterity]] + [[Weapons]] for [[Weapon Attack Roll]]s with the weapon.

@@ -1,0 +1,1 @@
+There are acts that take longer than a round of Conflict will allow. Generally taking one or more minutes. If a [[Feature]] uses a Prolonged Act, such as Ritual Casting, it will indicate how long the move will take.

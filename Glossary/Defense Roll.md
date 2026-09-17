@@ -1,0 +1,1 @@
+When a [[Character]] defends against a [[Feature]], they add the applicable [[Defense]] to their [[Roll]].

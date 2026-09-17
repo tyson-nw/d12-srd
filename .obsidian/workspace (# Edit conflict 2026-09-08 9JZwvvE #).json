@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "eea0ec2a4335531d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d40b8fef47cb858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99224234fe940296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Outside of Conflicts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Outside of Conflicts"
+            }
+          },
+          {
+            "id": "a2d683636208a126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Outside of Conflicts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Outside of Conflicts"
+            }
+          },
+          {
+            "id": "164474e9086a43ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Running the Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03. Running the Game"
+            }
+          },
+          {
+            "id": "ad511a393e3ab6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Creating the Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Creating the Character"
+            }
+          },
+          {
+            "id": "a19e3dc397f7cbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Playing the Game.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Playing the Game"
+            }
+          },
+          {
+            "id": "7a3a1ce78de52855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. D12 SRD.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "00. D12 SRD"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d38b1eee35fcad9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa556c55dc7e671c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df4fd811668080c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d14b612659ab564",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Characters",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0215a1d558eaac6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.58203125
+  },
+  "right": {
+    "id": "fec4dbf4cf9426da",
+    "type": "split",
+    "children": [
+      {
+        "id": "17fb9ebae975b940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf106079183d191d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04. Conflicts.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "083263ffbf82321c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04. Conflicts (# Edit conflict 2026-09-03 glAiAat #).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e608a1c2bd757ca8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "791cf6a02cffa12e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "567c11ce31fe5ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04. Conflicts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 497.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a2d683636208a126",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "04. Conflicts.md",
+    "05. Outside of Conflicts.md",
+    "Glossary/Character.md",
+    "03. Running the Game.md",
+    "02. Creating the Character.md",
+    "04. Conflicts (# Edit conflict 2026-09-07 BWEMgoZ #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 qgPe7aG #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 P16KcEQ #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 CAIXbyi #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 mYJAx45 #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 Gv2qUfa #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 OiHTf4d #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 K26r0oT #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 IJo3QXe #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 XT7Cycb #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 FomfHBr #).md",
+    "01. Playing the Game.md",
+    "04. Conflicts (# Edit conflict 2026-09-07 ET6opXg #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 0qv3xhV #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 cOPH0Ok #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 F60O7FN #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 HSVQKXc #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 lvRJzEH #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 W8kpFBS #).md",
+    "04. Conflicts (# Edit conflict 2026-09-07 zjT9rnb #).md",
+    "Glossary"
+  ]
+}

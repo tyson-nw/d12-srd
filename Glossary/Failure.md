@@ -1,0 +1,1 @@
+A [[Roll]] fails to surpass or equal a [[Target Number]].

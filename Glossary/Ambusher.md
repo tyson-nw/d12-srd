@@ -1,0 +1,1 @@
+Uses stealth and being hidden to gain advantage.

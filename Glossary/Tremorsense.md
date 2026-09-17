@@ -1,0 +1,1 @@
+[[Invisibility]] of creatures touching the ground and [[Light]] are ignored within the listed [[Space]]s.

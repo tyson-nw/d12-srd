@@ -1,0 +1,3 @@
+Who can see what is an important aspects of a [[Conflict]] and can add [[Complication]]s for the [[Character]]s to overcome or opportunities to take advantage of. It is assumed that all creatures can see within areas of Bright Light without [[Hindrance]]. In Low Light [[Senses]] [[Roll]]s have a [[Hindrance]] to see things within the area and [[Stealth]] [[Roll]]s within the area have an [[Edge]]. There are other forms of vision that Creatures may have access to that negate or limit the need for light.
+
+- [[03. Running the Game#Visibility]]

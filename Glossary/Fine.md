@@ -1,0 +1,1 @@
+Small light weapons that fit in a single hand deal 1D4 [[Damage]]. As a [[Maneuver]] the wielder can make a [[Weapon Attack]] against a single [[Target]].

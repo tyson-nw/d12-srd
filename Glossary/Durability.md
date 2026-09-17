@@ -1,0 +1,1 @@
+Reduces [[Damage]] taken by [[Vehicle]]s before applying [[Soak]] and [[Temporary HP]]. 

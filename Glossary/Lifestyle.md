@@ -1,0 +1,1 @@
+The Character's lifestyle includes comfort and quality of shelter, the food and drink available to them, and quality of clothing. The Character's Lifestyle signals to the rest of society the [[Character]]'s standing and can effect how [[Antagonist]]s interact with them.

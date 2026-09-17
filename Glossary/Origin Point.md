@@ -1,0 +1,1 @@
+The center of a space where an area begins. 

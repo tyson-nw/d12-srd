@@ -1,0 +1,1 @@
+Leads groups of Antagonists. They enhance and amplify the abilities of their followers commanding them to greater effectiveness.

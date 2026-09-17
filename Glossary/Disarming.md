@@ -1,0 +1,1 @@
+As a [[Perk]] the [[Target]] drops a held item or weapon.

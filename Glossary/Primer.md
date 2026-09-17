@@ -1,0 +1,1 @@
+Primers have a [[Tier]], a [[Research Die]], and an amount of [[Research Point]]s that can be extracted before the Primer becomes useless for the current line of [[Research]].

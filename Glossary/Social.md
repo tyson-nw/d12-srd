@@ -1,0 +1,1 @@
+Social is what [[Character]]s use to interact and manipulate [[Antagonist]]s.

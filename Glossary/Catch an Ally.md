@@ -1,0 +1,3 @@
+[[Character]]s adjacent to a falling [[Creature]] can attempt to use a [[Response]] to catch them with a [[Strength]] + [[Athletics]] [[Proactive Roll]] with a [[Target Number]] of 6 + the [[Spaces]] the creature has fallen so far. If the [[Character]] and falling [[Creature]] are tied together, the [[Character]] has an [[Edge]] on that roll, but on a [[Failure]] the [[Character]] also begins falling.
+
+- [[03. Running the Game#Catch an Ally]]

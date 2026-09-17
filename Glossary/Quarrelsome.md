@@ -1,0 +1,1 @@
+They will do what they can to hinder the [[Character]]s without putting themselves at risk. They have a +3 on their Mind defense against [[Character]]'s Social Rolls to convince them to help the [[Character]]s.

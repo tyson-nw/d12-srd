@@ -1,0 +1,1 @@
+Low Light is difficult to see in. Targets in Low Light are [[Screened]]. Low Light continues beyond the [[Bright Light]] by the listed [[Space]]s.

@@ -1,0 +1,1 @@
+They will risk themselves for the Characters. They have a -4 to Mind defense against [[Character]] Social Rolls.

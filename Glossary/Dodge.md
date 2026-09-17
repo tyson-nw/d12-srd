@@ -1,0 +1,1 @@
+As an Action, without a [[Roll]], a [[Character]] has an [[Edge]] on all [[React]] and [[Deflect]] rolls until the beginning of their next turn.

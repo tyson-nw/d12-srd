@@ -1,0 +1,1 @@
+Athletics is the [[Character]]'s physical prowess. Their ability to focus their strength, their ability to perform feats of acrobatics, and their ability to endure exertion. There are some specific ways these skills are used.

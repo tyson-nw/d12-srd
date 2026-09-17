@@ -1,0 +1,1 @@
+Moving through one [[Space]] of Difficult Terrain costs twice the [[Space]]s of the [[Creature]]'s movement.

@@ -1,0 +1,1 @@
+The party is entering the Hex for the first time. Traversing an Unknown [[Hex]] takes 3 hours and has a [[Target Number]]  of 10.

@@ -1,0 +1,1 @@
+A Mount is a [[Creature]] with an intellect -- no matter how basic -- that can be commanded to move an act by a rider using the [[Pilot]] [[Skill]]. 

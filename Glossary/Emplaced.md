@@ -1,0 +1,1 @@
+If fixed to a [[Vehicle]] uses [[Wits]] + [[Pilot]] for [[Weapon Attack Roll]]s. Otherwise uses [[Wits]] + [[Weapons]] for [[Weapon Attack Roll]]s.

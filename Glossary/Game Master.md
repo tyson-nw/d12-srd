@@ -1,0 +1,1 @@
+The person who presents the game world, adjudicates whether what the [[Character]]s attempt [[Success|Succeed]] or [[Failure|Fail]], and embodies the [[Antagonist]]s.

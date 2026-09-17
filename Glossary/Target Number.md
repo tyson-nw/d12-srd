@@ -1,0 +1,1 @@
+A value that the Player's need to [[Roll]] equal to or over than to [[Success|Succeed]] or [[Failure|Fail]].  

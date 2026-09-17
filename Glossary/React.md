@@ -1,0 +1,1 @@
+[[Dexterity]] and [[Wits]] combine to make up a [[Creature]]'s React [[Defense]]. This is used to avoid hazards and being touched.

@@ -1,0 +1,1 @@
+Increase the [[Damage]] die to the next size.

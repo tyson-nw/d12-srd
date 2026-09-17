@@ -1,0 +1,1 @@
+[[Will]] + [[Focus]] [[Conflict Roll]] against the [[Target Number]] of the [[Damage]]ing [[Feature]] to maintain [[Concentration]].

@@ -1,0 +1,1 @@
+The weapon can hold the listed number worth of Ammunition that can be used before [[Reload]]ing.

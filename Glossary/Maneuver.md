@@ -1,0 +1,1 @@
+Maneuvers are lesser acts that a [[Character]] can take on their turn. They do not rise to the level of an [[Action]], but if the [[Character]] wants to use a second [[Maneuver]] during their turn they can use their [[Action]] instead. Maneuvers can include movement, if so they use the [[Character]]'s [[Stride]] unless otherwise indicated.

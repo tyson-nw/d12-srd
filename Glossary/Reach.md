@@ -1,0 +1,1 @@
+[[Target]]s within the listed [[Space]]s are [[Threaten]]ed and can be attacked with the [[Weapon]].

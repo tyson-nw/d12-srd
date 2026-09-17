@@ -1,0 +1,14 @@
+# Obsidian system cache & UI layout (causes constant merge conflicts)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# Local community plugin storage data (optional cache elements)
+.obsidian/plugins/obsidian-git/
+
+# Obsidian trash folder
+.trash/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db

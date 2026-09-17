@@ -1,0 +1,1 @@
+Can be used one handed while mounted even if other [[Tag]]s would prevent it.

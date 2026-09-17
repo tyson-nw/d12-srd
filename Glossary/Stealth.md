@@ -1,0 +1,1 @@
+This is a [[Character]]'s skill at hiding and otherwise avoiding being seen.

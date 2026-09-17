@@ -1,0 +1,1 @@
+An abstracted volume and weight that a character can carry without [[Hindrance]].

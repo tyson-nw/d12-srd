@@ -1,0 +1,1 @@
+Filling the ranks of the Antagonists they work best when commanded by a [[Leader]], [[Solo]], or [[Bruiser]].

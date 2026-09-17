@@ -1,0 +1,3 @@
+If the [[Difficulty]] is [[Simple]] and the Character has is [[Proficient]] in the applicable [[Skill]], or has an appropriate [[Expertise]] they should automatically [[Success|Succeed]]. If the [[Difficulty]] is [[Easy]] and the character both is [[Proficient]] in the applicable [[Skill]] and has an appropriate [[Expertise]] they should automatically [[Success|Succeed]].
+
+- [[03. Running the Game#Automatic Success es]]

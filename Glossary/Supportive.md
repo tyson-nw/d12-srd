@@ -1,0 +1,1 @@
+They will offer support that doesn’t put them at risk. They have a -2 to their Mind defense against [[Character]] Social Rolls.

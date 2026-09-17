@@ -1,0 +1,1 @@
+Uses a cutting edge to wound a [[Target]]. As a [[Perk]] the [[Target]] gains a level of [[Bleeding]].

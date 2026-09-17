@@ -1,0 +1,1 @@
+Multiply the [[Party Strength]] by the [[Set Piece]]'s Difficulty's Multiplier to get the Challenge Rating Budget.

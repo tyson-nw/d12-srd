@@ -1,0 +1,1 @@
+They will not go out of their way to support or hinder the [[Character]]s.

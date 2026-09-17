@@ -1,0 +1,1 @@
+[[Target Number|TN]] 6. Anyone trained in the task can successfully achieve it.

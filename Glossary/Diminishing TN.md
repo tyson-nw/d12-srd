@@ -1,0 +1,1 @@
+At the beginning of the Antagonist's turn, reduce the [[Diminishing TN]] by 1 until it drops below the Antagonist's [[Defense]].

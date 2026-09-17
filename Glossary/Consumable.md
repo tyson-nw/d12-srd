@@ -1,0 +1,1 @@
+Consumable items have a single use.

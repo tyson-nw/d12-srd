@@ -1,0 +1,1 @@
+Focus is used to focus on a task, ignoring pain, wounds, or other distractions.

@@ -1,0 +1,1 @@
+A [[Player]] rolls a D12, adding a [[Stat]], appropriate [[Skill]], and applicable [[Expertise]]. This is compared to a [[Target Number]] to determine [[Success]] or [[Failure]].

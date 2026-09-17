@@ -1,0 +1,1 @@
+Uses a limited pool of ammunition. Ammunition with Features also effect [[Target]]s of the [[Weapon Attack]].

@@ -1,0 +1,1 @@
+When used after a maneuver that includes movement, deal an additional die of the [[Weapon]]'s [[Damage]].

@@ -1,0 +1,1 @@
+They are willing to put their lives on the line to hurt the [[Character]]s. They have a +6 on their Mind Defense against [[Character]]'s Social Rolls to convince them to help.
