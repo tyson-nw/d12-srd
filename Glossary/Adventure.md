@@ -1,3 +1,1 @@
 Adventures are a string of [[Conflict]]s where each leads into the next. Though Adventures are stand alone plots and create their own stories, they can include hooks for the next Adventure or be one subplot in a larger Campaign. Each Adventure should explore at least one theme that ties the plot together. It should be made up of a variety of conflicts that challenge the [[Player]]s in different ways.
-
-- [[05. Adventures]]

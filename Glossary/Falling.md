@@ -1,0 +1,1 @@
+Every [[Round]] a creature can fall up to 20 [[Space]]s. For each [[Space]] the [[Creature]] falls before hitting the a solid object they take 1d6 of [[Damage]].
