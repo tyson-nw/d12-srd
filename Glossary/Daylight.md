@@ -1,1 +1,5 @@
 Daylight is natural light from the sun. Its [[Dim Light]] is still considered Daylight for [[Feature]]s where it is relevant.
+
+---
+
+[[03. Running the Game#Light]]

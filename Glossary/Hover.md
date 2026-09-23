@@ -1,1 +1,5 @@
 Hovering creatures can move in any direction in empty space during their [[Turn]]. They are immune to being made [[Prone]].
+
+---
+
+- [[04. Conflicts#Moving]]

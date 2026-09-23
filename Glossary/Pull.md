@@ -1,3 +1,5 @@
-Move the [[Target]] towards the [[Feature]]'s [[Source]] in a straight line the listed amount of [[Space]]s.
+Move the [[Target]] towards the [[Feature]]'s [[Source]] in a [[Line]]the listed amount of [[Space]]s.
+
+---
 
 - [[04. Conflicts#Pull]]

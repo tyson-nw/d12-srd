@@ -1,1 +1,7 @@
 A [[Creature]] can move through another [[Creature]]'s space and it is considered [[Difficult Terrain]]. If a [[Creature]] ends their turn within another [[Creature]]'s space they are [[Share a Space|Sharing a Space]]. [[Response]]s by the [[Creature]] who’s space is being moved through have an [[Edge]] against the moving [[Creature]]. If the other [[Creature]] is [[Hostile]], as a [[Response]] they can make a [[Weapon Attack]] against the moving [[Creature]].
+
+---
+
+- [[04. Conflicts#Moving]]
+- [[Small]]
+- [[Tiny]]

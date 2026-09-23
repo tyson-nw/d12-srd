@@ -1,1 +1,25 @@
-The person who directs and embodies a [[Character]].
+The person who directs and embodies a [[Character]]. They make the choices for the [[Character]]'s behavior to express their [[Agency]] in the game. 
+
+---
+
+- [[01. Playing the Game]]
+- [[01. Playing the Game#Proactive Rolls]]
+- [[01. Playing the Game#Conflict Perk]]
+- [[01. Playing the Game#Complex Rolls]]
+- [[01. Playing the Game#Trust]]
+- [[01. Playing the Game#"I need a pause."]]
+- [[01. Playing the Game#"Could you back off?"]]
+- [[02. Creating the Character]]
+- [[02. Creating the Character#Personality Trait s]]
+- [[02. Creating the Character#Archetype]]
+- [[03. Running the Game#Agency]]
+- [[03. Running the Game#Set Pieces]]
+- [[03. Running the Game#Player Proposals]]
+- [[05. Adventures]]
+- [[Adventure]]
+- [[Agency]]
+- [[Archetype]]
+- [[Challenge]]
+- [[Character]]
+- [[Personality Trait]]
+- [[Reroll]]

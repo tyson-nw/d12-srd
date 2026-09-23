@@ -1,1 +1,5 @@
 Tiny creatures range form six inches to two feet tall. They can [[Share a Space]] with any other creature without a [[Hindrance]]. Creatures can [[Move Through]] without it being [[Difficult Terrain]]. They only the space they are in is considered [[Adjacent]].
+
+---
+
+- [[04. Conflicts#Tokens]]

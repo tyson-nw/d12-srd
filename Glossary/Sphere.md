@@ -1,1 +1,5 @@
-The area extends around the origin like a Circle but in all directions. Sphere 0 covers the [[Origin Point]].
+The area extends around the origin like a [[Circle]] but in all directions. Sphere 0 covers the [[Origin Point]].
+
+---
+
+- [[04. Conflicts#Targeting Areas]]

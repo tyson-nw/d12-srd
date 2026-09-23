@@ -1,1 +1,16 @@
 Antagonists are not necessarily foes of the [[Character]]s, but they do have incentives and desires that put them at cross purposes. They can want to keep what the [[Character]]s desire, need the [[Character]]s to do a task for them, or want to stop what the [[Character]]s are attempting. They could be the merchant who wants [[Coin]] for their goods, a guard wanting to keep the [[Character]]s out of a castle, or a madman attempting to destroy the world. All that matters is that they may act in conflict with what the [[Character]]s want.
+
+---
+
+- [[01. Playing the Game#Perk]]
+- [[01. Playing the Game#Will]]
+- [[04. Conflicts#Antagonists]]
+- [[Conflict]]
+- [[Decreasing TN]]
+- [[Defense]]
+- [[Edge]]
+- [[Game Master]]
+- [[Hindrance]]
+- [[Lifestyle]]
+- [[Random Encounter]]
+- [[Unique Antagonist]]

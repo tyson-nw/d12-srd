@@ -4,3 +4,8 @@ Roll a D12 plus the [[Character]]'s [[Fortitude]] against [[Target Number]] 8. I
 - **Roll over or equal to the TN** One [[Success]].
 - **Roll under the TN** One [[Failure]].
 - **Roll a 1 on the D12** Two [[Failure]]s.
+---
+
+- [[04. Conflicts#Dying]]
+- [[Dying]]
+- [[Suffocating]]

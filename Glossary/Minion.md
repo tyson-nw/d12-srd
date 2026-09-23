@@ -1,1 +1,5 @@
-If the [[Tier]] of an [[Antagonist]] is 2 or more [[Tier]]s under the [[Character]]s they become Minions. Minions do not get [[Response]]s, they cannot [[Expose]] a [[Character]] and if an attack surpasses the Minion's [[Soak]] the Minion immediately dies. 
+If the [[Tier]] of an [[Antagonist]] is 2 or more [[Tier]]s under the [[Character]]s they become Minions. Minions do not get [[Response]]s, they cannot [[Exposed|Expose]] a [[Character]] and if an attack surpasses the Minion's [[Soak]] the Minion immediately dies. 
+
+---
+
+[[04. Conflicts#Roles]]

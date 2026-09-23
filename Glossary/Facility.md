@@ -6,3 +6,10 @@ A Facility is a static location that contains the tools and mechanisms necessary
 | **[[Town]]**       | 3             |
 | **[[City]]**       | 9             |
 | **[[Metropolis]]** | 27+           |
+
+---
+
+- [[06. Outside of Conflicts#Crafting Useful Items]]
+- [[06. Outside of Conflicts#Crafting Alchemical Consumables]]
+- [[City]]
+- [[Craft]]

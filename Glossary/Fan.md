@@ -1,1 +1,3 @@
 The area projects outward in a ninety degree fan the listed spaces who's [[Origin Point]] is  adjacent to the [[Source]]'s [[Space]].
+
+[[04. Conflicts#Targeting Areas]]

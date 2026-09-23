@@ -1,1 +1,8 @@
 Some Empowered Items scale with the [[Attuned]] [[Character]] granting new Features at every [[Tier]]. To unlock the next Tier of a Legacy Item the [[Game Master]] may require a thematically appropriate task by the [[Character]].
+
+---
+
+- [[02. Creating the Character#Legacy Items]]
+- [[05. Adventures#Empowered Items]]
+- [[Attuned]]
+- [[Empowered Item]]

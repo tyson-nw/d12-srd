@@ -1,1 +1,7 @@
 Swimming creatures can move in any direction the current allows. Moving along with the current adds the current speed to the distance the creature can travel. Moving against the current subtracts the current speed from the listed distance. While swimming are immune to being made [[Prone]].
+
+---
+
+- [[03. Running the Game#Aquatic Terrain]]
+- [[04. Conflicts#Moving]]
+- [[Aquatic Terrain]]

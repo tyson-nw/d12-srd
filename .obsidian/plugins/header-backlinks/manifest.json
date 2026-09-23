@@ -1,0 +1,9 @@
+{
+	"id": "header-backlinks",
+	"name": "Header Backlinks",
+	"version": "0.0.7",
+	"minAppVersion": "1.5.8",
+	"description": "Displays anchor icons next to headings targeted by internal links and lets you navigate to every note that references each heading.",
+	"author": "rekby",
+	"isDesktopOnly": false
+}

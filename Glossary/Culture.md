@@ -1,3 +1,5 @@
 A [[Character]] is inextricably tied to the cultural milieu which they were brought up within. The culture imparts values, incentives, and expectations to the [[Character]]. Mechanically this can be treated to as an [[Expertise]] to tasks that the average member of the culture should be well-versed in. As well, each culture can bestow a [[Feature]] or an [[Expertise]] of greater specificity.
 
+---
+
 - [[02. Creating the Character#Culture]]

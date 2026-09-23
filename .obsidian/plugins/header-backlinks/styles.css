@@ -1,0 +1,23 @@
+.header-backlink-anchor-wrapper {
+	display: inline-block;
+	width: 0;
+	height: 0;
+	overflow: visible;
+	vertical-align: baseline;
+	position: relative;
+}
+
+.header-backlink-anchor {
+	position: absolute;
+	bottom: 0;
+	right: 0.5em;
+	display: flex;
+	cursor: pointer;
+	color: var(--text-muted);
+}
+
+.header-backlink-anchor svg {
+	width: 0.7em;
+	height: 0.7em;
+	stroke-width: 2px;
+}

@@ -1,1 +1,1 @@
-As a [[Perk]], push the [[Target]] the listed [[Space]]s.
+As a [[Weapon Perk]], [[Push]] the [[Target]] the listed [[Space]]s.

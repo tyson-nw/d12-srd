@@ -1,1 +1,26 @@
 Expertises are additional training that a character has received. They are not tied to a specific [[Skill]] or [[Stat]]. Only one Expertise can be added to a [[Roll]] if it applies to the task, adding the +2 to it. The [[Character]] does not need to be [[Proficient]] in a [[Skill]] to use an Expertise in a [[Roll]].
+
+---
+
+- [[01. Playing the Game#Proactive Rolls]]
+- [[01. Playing the Game#Conflict Rolls]]
+- [[01. Playing the Game#Expertises]]
+- [[01. Playing the Game#Creating Expertises]]
+- [[02. Creating the Character#Culture]]
+- [[02. Creating the Character#Background]]
+- [[02. Creating the Character#Features]]
+- [[02. Creating the Character#Filling Out the Character Sheet]]
+- [[03. Running the Game#Automatic Successes]]
+- [[03. Running the Game#Player Proposals]]
+- [[04. Conflicts#Actions]]
+- [[05. Adventures#Titles]]
+- [[Assist]]
+- [[Automatic Success]]
+- [[Background]]
+- [[Culture]]
+- [[Conflict Roll]]
+- [[Examining an Environment]]
+- [[Proactive Roll]]
+- [[Research]]
+- [[Research Point]]
+- [[Roll]]

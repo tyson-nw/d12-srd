@@ -1,1 +1,5 @@
 Either targets a single creature within the listed Spaces from the [[Source]], or the [[Origin Point]] of an area is within the listed [[Space]]s from the [[Source]].
+
+---
+
+- [[04. Conflicts#Targeting Areas]]

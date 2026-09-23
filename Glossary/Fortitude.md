@@ -1,3 +1,25 @@
 Fortitude is how durable a creature is. It is a measure of their health and overall durability.
 
+---
+
 - [[01. Playing the Game#Fortitude]]
+- [[02. Creating the Character#Act Types]]
+- [[02. Creating the Character#Defenses]]
+- [[02. Creating the Character#Soak]]
+- [[02. Creating the Character#HP]]
+- [[03. Running the Game#Holding Breath]]
+- [[03. Running the Game#Vehicles]]
+- [[04. Conflicts#Dying]]
+- [[04. Conflicts#Participants]]
+- [[05. Adventures#Path Quality]]
+- [[06. Outside of Conflicts#Breather]]
+- [[07. Advancement#Increasing Tier]]
+- [[Accelerate]]
+- [[Blighted]]
+- [[Body]]
+- [[Breather]]
+- [[Holding Breath]]
+- [[HP]]
+- [[Navigation Roll]]
+- [[Soak]]
+- [[Stabilization Roll]]

@@ -1,1 +1,7 @@
 Points of Shelter provides shelter, food, and drink for a [[Comfortable Rest]] at a Cost depending on what [[Lifestyle]] the [[Character]]s want to maintain and that the settlement will support.
+
+---
+
+- [[05. Adventures#Point Crawl]]
+- [[05. Adventures#Points of Shelter]]
+- [[Point]]

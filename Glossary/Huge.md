@@ -1,1 +1,5 @@
 Larger than sixteen feet tall, Huge creatures take up 4 by 4 spaces. They typically have [[Reach]] 2 for their [[Weapon Attack]]s unless otherwise indicated.
+
+---
+
+- [[04. Conflicts#Tokens]]

@@ -1,1 +1,9 @@
 Enigma Features do not have a single effect, but give a [[Creature]] access to many potential named effects. These could be spells, miracles, or other supernatural effects. Every Enigma Feature includes a [[Casting Stat]] that is used in their [[Casting Roll]].
+
+---
+
+- [[08. Enigmas#Enigma Features]]
+- [[Casting Bonus]]
+- [[Casting Roll]]
+- [[Casting Stat]]
+

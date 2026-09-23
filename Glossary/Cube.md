@@ -1,1 +1,5 @@
 The effect fills an area where the listed [[Space]]s defines each side of the area encompassed in 3d space starting from the [[Origin Point]]. 
+
+---
+
+- [[04. Conflicts#Targeting Areas]]

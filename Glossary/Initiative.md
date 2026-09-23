@@ -1,1 +1,6 @@
 To determine who goes in the first [[Round]] the [[Player]]s roll their [[Character]]s [[React]] against their enemy's highest [[React]]. If a [[Character]] resorts to violence first, they automatically succeed. And if the [[Character]]s are laying in ambush they get an [[Edge]] on their [[Roll]]. 
+
+---
+
+- [[04. Conflicts#Initiative]]
+- [[Fall Behind]]

@@ -1,1 +1,6 @@
 he party has spent time charting the Hex previously and has deep understanding of the terrain. Traversing a Charted [[Hex]] takes 1 hour and has a [[Target Number]] of 4. 
+
+---
+
+- [[05. Adventures#Familiarity]]
+- [[Familiarity]]

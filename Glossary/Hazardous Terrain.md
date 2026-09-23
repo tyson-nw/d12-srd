@@ -1,3 +1,9 @@
 Hazardous Terrain deals [[Damage]], applies a [[Condition]], or other effect when a [[Creature]] begins their turn within the terrain or they enter the terrain. The Hazardous Terrain may have a [[Target Number]] to avoid the damage with a [[React]] [[Defense]] when the [[Character]] is not aware of the hazard or a [[Character]] can use an [[Action]] to make a [[Dexterity]] + [[Athletics]] [[Conflict Roll]] to move through and avoid the hazards.
 
+---
+
 - [[03. Running the Game#Hazardous Terrain]]
+- [[04. Conflicts#Forced Movement]]
+- [[04. Conflicts#Lead]]
+- [[04. Conflicts#Terrain Hazards]]
+- [[Dexterity]]
