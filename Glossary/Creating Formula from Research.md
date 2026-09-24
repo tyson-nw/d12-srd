@@ -1,4 +1,4 @@
-Once they complete enough [[Research Point]]s they can transcribe the Formula into their [[Codex]].
+Once they complete enough [[Research Point]]s they can [[Research]] a [[Formula]] to be transcribed into their [[Codex]].
 
 ---
 

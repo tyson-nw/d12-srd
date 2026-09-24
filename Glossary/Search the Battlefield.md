@@ -1,1 +1,5 @@
 A creature makes a [[Wits]] + [[Senses]] [[Roll]] to reveal [[Hidden]] enemies, [[Scene Feature]]s they can take advantage of, or traps. If a [[Scene Feature]] is revealed that [[Character]] -- and any others they can alert -- is granted an [[Edge]] on defending against them.
+
+---
+
+- [[04. Conflicts#Actions]]

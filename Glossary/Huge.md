@@ -3,3 +3,4 @@ Larger than sixteen feet tall, Huge creatures take up 4 by 4 spaces. They typica
 ---
 
 - [[04. Conflicts#Tokens]]
+- [[Size]]

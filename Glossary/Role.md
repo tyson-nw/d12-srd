@@ -9,4 +9,9 @@ If a Conflict devolves into combat, Antagonists will take on a Role that -- comb
 - **[[Solo]]** Can stand on their own against the [[Character]]s with minimal support. They often can take multiple [[Action]]s or [[Response]]s.
 - **[[Follower]]** Filling the ranks of the Antagonists they work best when commanded by a [[Leader]], [[Solo]], or [[Bruiser]].
 
-- [[04. Conflicts#Role s]]
+---
+
+- [[04. Conflicts#Roles]]
+- [[04. Conflicts#Features]]
+- [[04. Conflicts#Dying]]
+- [[Themes]]

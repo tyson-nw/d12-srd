@@ -4,5 +4,6 @@ Colossal creatures are larger than a [[Battlemap]] and rarely do more than protr
 
 - [[04. Conflicts#Token s]]
 - [[Battlemap]]
+- [[Size]]
 
 

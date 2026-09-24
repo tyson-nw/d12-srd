@@ -6,3 +6,7 @@ Enigmas with a Ritual casting time can be cast with a [[Prolonged Act]] over a p
 |  2   | 30 minutes  |    6     |
 |  3   |   1 hour    |    9     |
 |  4   |   4 hours   |    12    |
+
+---
+- [[08. Enigmas#Casting Time]]
+- [[Casting Time]]
